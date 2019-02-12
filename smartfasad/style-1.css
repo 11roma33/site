@@ -1,0 +1,135 @@
+@import url(reset-1.css)/*tpa=http://smartfasad.ru/assets/templates/site/css/reset.css*/;.clr{clear:both;}
+body{background:#fff;font-family:'Open Sans', sans-serif;}
+
+.formone .form{width:266px;float:left;}
+.formone h4{text-align:center;color:#fff;font-size:32px;}
+.formone .form{border:4px solid #3d4952;width:266px;float:left;margin:-300px 0 0 659px;padding:41px;background:rgba(104, 108, 110, 0.73);border-radius:8px;}
+.formone .thpxe{font-size:18px;color:#088AC8;text-align:center;text-transform:uppercase;width:100%;float:left;margin:0 0 10px;}
+.formone p{font-size:19px;color:#f4f9fb;text-align:center;width:100%;line-height:130%;float:left;margin:10px 0 0;}
+.formone .form input{outline:none;width:240px;height:58px;line-height:58px;border:1px solid #fff;font-size:20px;color:#000;float:left;border-radius:4px;margin:12px 0 0;padding:0 0 0 26px;}
+.formone .form textarea{outline:none;overflow:auto;resize:none;width:293px;height:70px;border:1px solid #cacaca;font-size:14px;color:#000;float:left;margin:10px 0 0;padding:0 0 0 5px;}
+.formone .form .submit{background:#3d4952;border:none;color:#fff;font-size:26px;width:268px;height:61px;cursor:pointer;float:left;font-weight:700;text-align:center;margin:15px 0 0;padding:0;}
+.wrap{width:1000px;margin:0 auto;}
+header .info .contact{float:left;margin:83px 0 0 426px;}
+header .info .contact p{text-shadow:1px 1px 2px rgba(0, 0, 0, 0.45), 0 0 1em rgba(4, 0, 255, 0.05);font-size:32px;color:#fff;font-weight:600;}
+header .info .contact a{text-decoration:underline;float:left;color:#686C6E;font-weight:400;font-size:21px;cursor:pointer;margin:10px 0 0 56px;}
+header .info .contact a:hover{text-decoration:none;}
+header .info .loz{text-shadow:1px 1px 2px rgba(0, 0, 0, 0.37), 0 0 1em rgba(0, 131, 200, 0.19);width:500px;float:left;color:#fff;font-weight:700;font-size:42px;line-height:120%;margin:186px 0 0 -289px;}
+header .info .loz span{font-size:25px;font-weight:400;vertical-align:top;line-height:70%;}
+header .info .spec{background:url(bt.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/bt.png*/ no-repeat;width:357px;height:41px;float:left;cursor:pointer;text-align:center;color:#fff;font-size:19px;font-weight:700;padding-top:19px;text-align-last:none;text-shadow:1px 1px rgba(0,0,0,0.5);margin:47px 0 0 40px;border-radius:50px;-webkit-transition:0.3s all;-o-transition:0.3s all;transition:0.3s all;}
+
+.header-left{width:50%;float:left;v
+height:696px;background:url(bg-top-left.jpg)/*tpa=http://smartfasad.ru/assets/templates/site/images/bg-top-left.jpg*/ repeat-x top center;}
+.header-right{width:50%;float:left;height:696px;background:url(bg-top-right.jpg)/*tpa=http://smartfasad.ru/assets/templates/site/images/bg-top-right.jpg*/ repeat-x top center;}
+#header{position:absolute;width:100%;z-index:999;height:696px;background:url(bg-header.jpg)/*tpa=http://smartfasad.ru/assets/templates/site/images/bg-header.jpg*/ no-repeat top center;overflow-x:hidden;}
+header{width:100%;min-width:1000px;height:696px;margin:0 auto;}
+header .info{width:100%;}
+header .info .logo{background:url(logo.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/logo.png*/ no-repeat;width:266px;height:77px;float:left;cursor:pointer;margin:78px 0 0;}
+header .info .spec:hover{-webkit-box-shadow:0 0 20px #7eb8ff;box-shadow:0 0 20px #7eb8ff;}
+header .info .com{float:left;color:#fff;font-size:17px;margin:6px 0 0 88px;}
+#top{width:100%;min-width:1000px;background:#f4f9fb;margin:0 auto;padding:60px 0;}
+#top p{font-size:15px;color:#1a1a1a;line-height:130%;padding:15px 77px 0 106px;}
+#top hr{background:red;height:2px;border:none;width:250px;margin:60px 0 0 106px;}
+#top p.caption{font-size:35px;color:#1a1a1a;line-height:100%;font-weight:700;padding:45px 0 0 106px;}
+#sx-problem{width:1000px;margin:0 auto;padding:90px 0;}
+#sx-problem p{width:100%;text-align:center;color:#3d4952;font-weight:700;font-size:35px;}
+#sx-problem .sxema{width:100%;height:451px;background:url(sx-problem.jpg)/*tpa=http://smartfasad.ru/assets/templates/site/images/sx-problem.jpg*/ no-repeat;display:block;margin:20px 0 0;}
+#new-sxema{width:100%;min-width:1000px;background:#f4f9fb;margin:0 auto;padding:110px 0 120px;}
+#new-sxema p{width:100%;text-align:center;font-weight:800;font-size:35px;}
+#new-sxema .new-sxema{width:100%;height:541px;background:url(new-sxema.jpg)/*tpa=http://smartfasad.ru/assets/templates/site/images/new-sxema.jpg*/ no-repeat;display:block;margin:25px 0 0;}
+
+#order{width:100%;background:#3d4952 url(bg-order.jpg)/*tpa=http://smartfasad.ru/assets/templates/site/images/bg-order.jpg*/ no-repeat top center;height:295px;min-width:1000px;margin:0 auto;}
+#order .content{width:515px;float:left;margin:58px 0 0 63px;}
+#order .content p{line-height:130%;text-align:center;color:#fff;font-size:23px;font-weight:800;margin:20px 0 0;}
+#order .comment{color:#fff;font-size:14px;line-height:130%;width:320px;float:left;text-align:center;margin:5px 0 0 -5px;padding:5px 0 0 92px;}
+
+#order .order{width:318px;height:76px;background:url(order-but.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/order-but.png*/ no-repeat;float:left;cursor:pointer;margin:92px 0 0 40px;-webkit-transition:0.2s all;-o-transition:0.2s all;transition:0.2s all;}
+
+#order .order1{width:318px;height:76px;background:url(order-but.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/order-but.png*/ no-repeat;float:left;cursor:pointer;margin:92px 0 0 40px;border-radius:100px;-webkit-transition:0.2s all;-o-transition:0.2s all;transition:0.2s all;}
+#why{width:100%;background:#fafafa;min-width:1000px;overflow-x:hidden;margin:0 auto;padding:92px 0 70px;}
+#why .title{width:100%;font-size:35px;color:#1a1a1a;font-weight:700;float:left;text-align:center;margin:0;margin-bottom:40px;}
+#why .reason{color:#1e6dab;font-size:21px;font-weight:700;line-height:130%;height:66px;}
+#why .reason-1{float:left;background:url(icons-1.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/icons-1.png*/ no-repeat left top;padding-left:70px;width:70px;margin:119px 0 0 153px;}
+#why .reason-2{float:left;background:url(icons-2.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/icons-2.png*/ no-repeat left top;padding-left:85px;width:150px;margin:119px 0 0 270px;}
+#why .reason-3{float:left;background:url(icons-3.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/icons-3.png*/ no-repeat left top;padding-left:100px;width:217px;margin:66px 0 0 129px;}
+#why .reason-4{float:left;background:url(icons-4.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/icons-4.png*/ no-repeat left top;padding-left:86px;width:235px;height:77px;margin:66px 0 0 120px;}
+#why .reason-5{float:left;background:url(icons-5.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/icons-5.png*/ no-repeat left top;padding-left:100px;width:450px;height:68px;padding-top:17px;margin:65px 0 0 265px;}
+#counter{width:100%;background:#fff;height:152px;min-width:1000px;margin:0 auto;}
+#counter .counters{width:160px;float:left;margin:32px 0 0 76px;}
+#counter .counters p{width:49px;height:65px;float:left;text-align:center;background:url(bg-counter.jpg)/*tpa=http://smartfasad.ru/assets/templates/site/images/bg-counter.jpg*/ no-repeat left top;font-size:45px;color:#000;font-weight:700;padding-top:18px;margin:0 3px 0 0;}
+#counter p{float:left;font-size:45px;color:#191919;margin:49px 0 0 20px;}
+#sliders{width:100%;min-width:1000px;height:609px;margin:0 auto;}
+.bx-wrapper{position:relative;height:609px;min-width:1000px;margin:0 auto;padding:0;}
+.bx-wrapper .slide{width:100%;height:554px;min-width:1000px;}
+.bx-wrapper .bx-viewport{height:554px;width:100%;}
+.bx-wrapper .bx-pager,.bx-wrapper .bx-controls-auto{position:absolute;width:100%;text-align:center;}
+.bx-wrapper .bx-pager{margin-top:43px;text-align:center;}
+.bx-wrapper .bx-pager .bx-pager-itpx,.bx-wrapper .bx-controls-auto .bx-controls-auto-itpx{zoom:1;display:inline-block;}
+.bx-controls-direction{display:none;}
+.bx-wrapper .bx-pager a{background:url(bullet.jpg)/*tpa=http://smartfasad.ru/assets/templates/site/images/bullet.jpg*/ no-repeat -30px 0;text-indent:-9999px;display:block;width:12px;height:12px;outline:0;margin:0 9px;}
+.bx-wrapper .bx-pager.bx-default-pager a.active{background:url(bullet.jpg)/*tpa=http://smartfasad.ru/assets/templates/site/images/bullet.jpg*/ no-repeat 0 0;}
+.bxslider .text-w{width:1000px;height:554px;margin:0 auto;}
+.bxslider .text-w .textSlide{width:446px;float:left;margin:168px 0 0 477px;}
+.bxslider .text-w .textSlide p{font-size:28px;color:#fff;width:100%;font-weight:400;text-shadow:3px 3px 3px rgba(0,0,0,0.4);margin:0;}
+.bxslider .text-w .textSlide p span{font-size:71px;color:#fff;text-transform:uppercase;font-weight:700;text-shadow:3px 3px 3px rgba(0,0,0,0.4);}
+.bxslider .text-w .textSlide a.order , .orderSale{width:318px;height:76px;background:url(order-but.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/order-but.png*/ no-repeat;border-radius:4px;float:left;cursor:pointer;margin:17% 0 0 -100%;-webkit-transition:0.2s all;-o-transition:0.2s all;transition:0.2s all;}
+.bxslider .text-w .textSlide a.order , .orderSale:hover{-webkit-box-shadow:inset 0 0 10px 10px #f9c718;box-shadow:inset 0 0 10px 10px #f9c718;}
+.bxslider .text-w .textSlide a.order:hover{-webkit-transform:scale(1.05);-ms-transform:scale(1.05);-o-transform:scale(1.05);transform:scale(1.05);}
+.bxslider li:nth-child(3) .text-w .textSlide a.order{width:321px;height:103px;background:url(order-s1.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/order-s1.png*/ no-repeat;float:left;cursor:pointer;margin:17px 0 0;-webkit-transition:0.2s all;-o-transition:0.2s all;transition:0.2s all;}
+.bxslider li:nth-child(3) .text-w .textSlide a.order:hover{-webkit-transform:scale(1.05);-ms-transform:scale(1.05);-o-transform:scale(1.05);transform:scale(1.05);}
+#order-spec{width:100%;background:#fafafa;min-width:1000px;height:303px;}
+#order-spec .wrap{background:url(bg-spec.jpg)/*tpa=http://smartfasad.ru/assets/templates/site/images/bg-spec.jpg*/ no-repeat left top;height:303px;width:1000px;margin:0 auto;}
+#order-spec .wrap a{float:left;width:554px;height:123px;cursor:pointer;margin:72px 0 0 227px;-webkit-transition:0.2s all;-o-transition:0.2s all;transition:0.2s all;}
+#order-spec .wrap a:hover{-moz-transform:scale(1.05);-ms-transform:scale(1.05);-webkit-transform:scale(1.05);-o-transform:scale(1.05);transform:scale(1.05);}
+#order-spec .wrap p{float:left;text-transform:uppercase;color:#3d4952;font-size:13px;margin:7px 0 0 460px;}
+.variable-width{}
+.variable-width img{border-radius:5px;}
+#work{width:100%;background:#fafafa;min-width:1000px;padding-top:90px;overflow-x:hidden;}
+#work .caption{width:100%;text-align:center;color:#000;font-size:30px;font-weight:700;margin-bottom:45px;}
+.work-sxema{width:745px;background:url(bg-girl.jpg)/*tpa=http://smartfasad.ru/assets/templates/site/images/bg-girl.jpg*/ no-repeat left bottom;padding-bottom:76px;margin:0 0 0 140px;}
+.work-sxema .line{width:100%;float:left;height:219px;margin:35px 0 0;}
+.work-sxema .line .step{float:left;color:#0e4e81;font-size:16px;font-weight:600;line-height:130%;height:64px;}
+.work-sxema .line .step1{background:url(icon-1.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/icon-1.png*/ no-repeat left top;padding-left:64px;width:140px;}
+.work-sxema .line .step2{background:url(icon-2.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/icon-2.png*/ no-repeat left top;padding-left:95px;width:170px;}
+.work-sxema .line .step3{background:url(icon-3.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/icon-3.png*/ no-repeat left top;padding-left:66px;width:70px;}
+.work-sxema .line .step4{background:url(icon-4.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/icon-4.png*/ no-repeat left top;padding-left:72px;width:120px;}
+.work-sxema .line .step5{background:url(icon-5.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/icon-5.png*/ no-repeat left top;padding-left:68px;width:165px;padding-right:13px;}
+.work-sxema .line .step6{background:url(icon-6.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/icon-6.png*/ no-repeat left top;padding-left:58px;width:105px;}
+.work-sxema .line .step7{background:url(icon-7.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/icon-7.png*/ no-repeat left top;padding-left:55px;width:145px;}
+.work-sxema .line .step8{background:url(icon-8.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/icon-8.png*/ no-repeat left top;padding-left:61px;width:180px;margin-left:30px;}
+.work-sxema .str-l{background:url(str-l.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/str-l.png*/ no-repeat;float:left;width:15px;height:5px;margin:25px 35px 0 12px;}
+.work-sxema .str-r{background:url(str-r.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/str-r.png*/ no-repeat;float:left;width:15px;height:5px;margin:22px 30px 0 0;}
+.work-sxema .str-b{background:url(str-b.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/str-b.png*/ no-repeat;width:5px;height:15px;}
+.work-sxema .right{float:right;margin:13px 79px 0 0;}
+.work-sxema .left{float:left;margin:22px 0 0 19px;}
+.work-sxema a.orderZ{float:left;cursor:pointer;width:300px;height:36px;text-decoration:none;text-transform:uppercase;color:#fff;font-size:19px;font-weight:700;padding-top:15px;text-align:center;margin:168px 0 0 194px;-webkit-transition:0.2s all;-o-transition:0.2s all;transition:0.2s all;}
+.work-sxema a.orderZ:hover{-webkit-transform:scale(1.1);-ms-transform:scale(1.1);-o-transform:scale(1.1);transform:scale(1.1);}
+footer{width:100%;min-width:1000px;height:608px;background:#9f9c89 url(bg-footer.jpg)/*tpa=http://smartfasad.ru/assets/templates/site/images/bg-footer.jpg*/ no-repeat top center;overflow-x:hidden;margin:0 auto;}
+footer .logo{background:url(logo.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/logo.png*/ no-repeat;width:266px;height:77px;float:left;cursor:pointer;margin:139px 0 55px 77px;}
+footer .contact{width:100%;float:left;margin:50px 0 0;}
+footer .callFoter{text-decoration:none;float:left;margin-left:107px;border:3px solid #fff;border-radius:4px;text-transform:uppercase;font-size:21px;color:#fff;font-weight:900;cursor:pointer;padding:18px 39px;-webkit-transition:0.2s all;-o-transition:0.2s all;transition:0.2s all;}
+footer .callFoter:hover{background-color:#fff;color:#3d4952;}
+footer .wrap .adres{text-align:center;font-size:1.2px;position:absolute;margin-top:141px;font-weight:900;line-height:1.1;margin-left:582px;}
+footer .wrap .adres a{text-decoration:inherit;}
+footer .wrap .text{color:#fff;font-style:italic;position:absolute;margin:213px 172px;}
+footer .contact p{background:url(strOrder.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/strOrder.png*/ no-repeat left top;line-height:120%;padding-left:47px;font-size:40px;color:#fff;font-weight:900;width:500px;text-align:center;float:left;margin:9px 0 0 50px;}
+#slideout{display:none;width:100%;height:100%;position:fixed;background:url(dim.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/dim.png*/ repeat;z-index:9997;}
+.feedback{display:none;width:355px;height:311px;position:fixed;z-index:9998;background:#3d4952;left:50%;margin-left:-175px;top:50%;margin-top:-202px;border-radius:4px;padding:41px 0 0 41px;}
+.feedback .form{width:266px;float:left;}
+.feedback .thpxe{font-size:18px;color:#088AC8;text-align:center;text-transform:uppercase;width:100%;float:left;margin:0 0 10px;}
+.feedback p{font-size:14px;color:#fff;text-align:center;width:100%;line-height:130%;float:left;margin:10px 0 0;}
+.feedback .form input{outline:none;width:280px;height:58px;line-height:58px;border:1px solid #fff;font-size:20px;color:#000;float:left;border-radius:5px;margin:12px 0 0;padding:0 0 0 26px;}
+.feedback .form textarea{outline:none;overflow:auto;resize:none;width:293px;height:70px;border:1px solid #cacaca;font-size:14px;color:#000;float:left;margin:10px 0 0;padding:0 0 0 5px;}
+.feedback .form .submit{border:none;width:280px;text-transform: uppercase;height:61px;background:url(submit.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/submit.png*/ no-repeat;cursor:pointer;float:left;color:#fff;font-size:19px;font-weight:700;text-align:center;margin:15px 0 0;padding:0;}
+#callback .form .submit{border:none;width:280px;height:60px;background:url(callback-but.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/callback-but.png*/ no-repeat;cursor:pointer;float:left;color:#fff;font-size:19px;font-weight:700;text-align:center;margin:15px 0 0;padding:0;}
+#callback{display:none;width:340px;height:355px;position:fixed;border:3px solid #111;z-index:9998;background:#3d4952;left:50%;margin-left:-175px;top:50%;margin-top:-167px;border-radius:5px;padding:41px 0 0 41px;}
+#thank{display:none;border-radius:8px;width:480px;position:fixed;z-index:9998;background:#e6191e;left:50%;margin-left:-240px;top:50%;margin-top:-300px;box-shadow:3px 3px 10px rgba(0,0,0,0.5);padding:35px 0 25px;}
+#thank p{width:100%;text-transform:uppercase;float:left;font-size:19px;text-align:center;color:#fff;margin:42px 0;}
+.feedback .close,#thank .close{right:25px;position:absolute;top:20px;cursor:pointer;width:21px;height:21px;background:url(close.png)/*tpa=http://smartfasad.ru/assets/templates/site/images/close.png*/ no-repeat;margin:0;}
+.feedback form input::-webkit-input-placeholder,.feedback form input:-moz-placeholder{color:#000;font-size:20px;}
+.howText{float:left;width:20%;padding:0px 10px 0px 40px;height:54px;text-align:center;font-size:19px;}
+.whyText{float:left;width:31%;padding:6px 20px 0px 86px;height:50px;text-align:center;font-size:20px;}
+.footer{width:1300px;display:flex;}
+.footer .two_tabs{width:500px;}
+.footer .two_tabs .title{width:100%;font-size:35px;color:#1a1a1a;font-weight:700;float:left;text-align:center;margin:0;margin-bottom:40px;}
+.footer .two_tabs .text{font-size:1.2px;}
